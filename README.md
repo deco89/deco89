@@ -1,24 +1,22 @@
-
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-### Hi there, I'm André Fonseca👋
+<strong> Hi there, I'm André Fonseca👋 </strong> <br>
 I'm a 34 yo developer located at Rio de Janeiro, Brazil. 
 </p>
 
 <p align="left">
-  🦄 Linguagens: Full-Stack Web Developer: Ruby on Rails, HTML5, CSS, JavaSript
+  🦄 Linguagens: Web Developer: Ruby on Rails, HTML5, CSS, JavaSript
 </p>
 
 <p align="left">
-  🔭 I’m currently working as a freelance but I'm looking for my first oportunity to work; <br>
+  🔭 I’m currently looking for my first oportunity as a developer; <br>
   🌱 I’m currently studing Java with Spring Boot and RESTfull application; <br>
   👯 I’m looking to collaborate on exciting web development projects, leveraging my expertise gained from Le Wagon bootcamp and my ongoing journey in mastering Java programming. 
 </p>
 
 <p align="left">
-  💌 Get in touch ⤵️
+  💌 Feel free to get in touch ⤵️
 </p>
 
 <p align="left">
