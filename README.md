@@ -27,6 +27,15 @@ I'm a 34 yo developer located at Rio de Janeiro, Brazil.
   <a href="#" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5521981737880" alt="WhatsApp"/></a>
 </p>
+<table>
+  <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+  </td>  
+</table>
 
 <!--
 **deco89/deco89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
