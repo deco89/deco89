@@ -12,8 +12,8 @@ I'm a 34 yo developer located at Rio de Janeiro, Brazil.
 </p>
 
 <p align="left">
-  🔭 I’m currently working as a freelance but I'm looking for my first oportunity to work;
-  🌱 I’m currently studing Java with Spring Boot and RESTfull application;
+  🔭 I’m currently working as a freelance but I'm looking for my first oportunity to work; <br>
+  🌱 I’m currently studing Java with Spring Boot and RESTfull application; <br>
   👯 I’m looking to collaborate on exciting web development projects, leveraging my expertise gained from Le Wagon bootcamp and my ongoing journey in mastering Java programming. 
 </p>
 
