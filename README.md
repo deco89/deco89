@@ -6,7 +6,7 @@ I'm a 34 yo developer located at Rio de Janeiro, Brazil.
 </p>
 
 <p align="left">
-  🦄 Linguagens: Web Developer: Ruby on Rails, HTML5, CSS, JavaSript
+  🦄 Linguagens: Ruby on Rails, HTML5, CSS, JavaSript, Java, MySQL, MongoDB.
 </p>
 
 <p align="left">
