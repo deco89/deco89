@@ -6,8 +6,8 @@ I'm a 34 yo developer located at Rio de Janeiro, Brazil.
 </p>
 
 <p align="left">
-  🦄 Backend: Java | Ruby on Rails | HTML5   
-  ✨ Frontend: CSS | JS | Bootstrap 
+  🦄 Backend: Java | Ruby on Rails | HTML5 <br>   
+  ✨ Frontend: CSS | JS | Bootstrap <br>
   💾 DB: MySQL | MongoDB
   
 </p>
