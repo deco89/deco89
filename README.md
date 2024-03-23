@@ -6,7 +6,10 @@ I'm a 34 yo developer located at Rio de Janeiro, Brazil.
 </p>
 
 <p align="left">
-  🦄 Linguagens: Ruby on Rails, HTML5, CSS, JavaSript, Java, MySQL, MongoDB.
+  🦄 Backend: Java | Ruby on Rails | HTML5   
+  ✨ Frontend: CSS | JS | Bootstrap 
+  💾 DB: MySQL | MongoDB
+  
 </p>
 
 <p align="left">
